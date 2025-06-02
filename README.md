@@ -20,10 +20,4 @@ This is a simple GUI-based retail shop billing system built using **Python's Tki
 - Tkinter (GUI)
 - SQLite3 (Database)
 
-## 🚀 How to Run
 
-1. Ensure Python is installed.
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/retail-shop-billing.git
-   cd retail-shop-billing
